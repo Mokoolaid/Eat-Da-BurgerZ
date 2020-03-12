@@ -1,0 +1,31 @@
+{
+  "name": "Eat-Da-BurgerZ",
+  "version": "1.0.0",
+  "description": "Handlebars",
+  "main": "index.js",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "jquery": "^3.4.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mokoolaid/Eat-Da-BurgerZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mokoolaid/Eat-Da-BurgerZ/issues"
+  },
+  "homepage": "https://github.com/Mokoolaid/Eat-Da-BurgerZ#readme"
+}
